@@ -1,5 +1,9 @@
-React Timer App:
+React Boilerplate:
 
-1. Starts and stops a Timer
-2. Counts down from a particular input
+Specifications:
 
+1. Webpack config
+2. Foundation support
+3. jquery support
+4. karma and Mocha support
+5. Sass support
